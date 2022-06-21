@@ -8,14 +8,14 @@ public class hollow_star
 		{
 			for(int space=1;space<=10;space++)
 			{
-				if((line==1||line==10)||(space==1||space==10))
-				{
-					System.out.print("*");
-				}
-				else
-				{
-					System.out.print(" ");
-				}
+//				if((line==1||line==10)||(space==1||space==10))
+//				{
+//					System.out.print("*");
+//				}
+//				else
+//				{
+//					System.out.print(" ");
+//				}
 			}
 			System.out.println();
 		}
